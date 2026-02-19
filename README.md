@@ -122,10 +122,6 @@ This project was completed as part of the **Snowflake Data Engineering Professio
 
 MIT License - see LICENSE file for details.
 
----
-
-⭐ **Star this repository if you find it helpful!**
-```
 
 ### **Step 3: Add Topics (Tags)**
 
